@@ -4,3 +4,6 @@ c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task5\Task5\bi
 c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task5\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
 c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task5\Task5\obj\Debug\Task5.exe
 c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task5\Task5\obj\Debug\Task5.pdb
+C:\Users\Yauheniy_Kisialiou\GID\Task4\Task5\bin\Debug\Task5.exe.config
+C:\Users\Yauheniy_Kisialiou\GID\Task4\Task5\obj\Debug\Task5.exe
+C:\Users\Yauheniy_Kisialiou\GID\Task4\Task5\obj\Debug\Task5.pdb
